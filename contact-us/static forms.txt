@@ -1,0 +1,24 @@
+<form action="https://api.staticforms.xyz/submit" method="post">
+
+<input type="text" name="name" placeholder="Your Name" required />
+<input type="email" name="email" placeholder="Your Email" required />
+<input type="text" name="email" placeholder="Your Phone Number" required />
+
+<textarea name="message" required></textarea>
+
+<input type="submit" value="Submit" />
+    
+<input type="text" name="honeypot" style="display:none">
+<input type="hidden" name="accessKey" value="e70eb77b-ec6d-49ca-96b5-beffd47472bd">
+<input type="hidden" name="subject" value="New Enquiry on Udanawellness.in" />
+<input type="hidden" name="replyTo" value="@">
+<input type="hidden" name="redirectTo" value="https://ZOLOINNOVATIONS.com/contact-us/success">
+    
+</form>
+
+
+
+zoloinnovations@gmail.com  Access Key: e70eb77b-ec6d-49ca-96b5-beffd47472bd 
+
+rajat@job-tank.com Access Key: 50f80e69-a09a-4cbc-bdbe-6b82909e8cc6
+
