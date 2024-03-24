@@ -12,11 +12,9 @@
 <input type="hidden" name="accessKey" value="e70eb77b-ec6d-49ca-96b5-beffd47472bd">
 <input type="hidden" name="subject" value="New Enquiry on Udanawellness.in" />
 <input type="hidden" name="replyTo" value="@">
-<input type="hidden" name="redirectTo" value="https://ZOLOINNOVATIONS.com/contact-us/success">
-    
+<input type="hidden" name="redirectTo" value="./contact-us/success">
+
 </form>
-
-
 
 zoloinnovations@gmail.com  Access Key: e70eb77b-ec6d-49ca-96b5-beffd47472bd 
 
